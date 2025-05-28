@@ -1,0 +1,24 @@
+1er 
+
+	développement du dataset:
+		on part d’un premier subreddit,
+			on liste les utilisateurs
+			on regarde les autres communautés de ces utilisateurs
+			on sélectionne manuellement les subs à ajouter
+			on réitère sur les nouveaux sub
+	
+	difficultée résolue = être sûre de bien récupérer les reddits que l’on cherche, nous avons juste besoin d’un subreddit de départ
+	on s’appuie l’hypothèse: les gens qui se ressemblent fréquentent les mêmes communautés
+
+	Etude préliminaire sur les communautés, quelles autres communautés retrouvent on à part les sub d’ED, le nombre de message, l’interaction au fil du temps (différence pour les utilisateurs au moment où ils rejoignent l’ED ? Est ce que l’ED est la première communauté du profil ? )
+
+2ème axe
+
+	Analyse linguistique
+	vocabulaire utilisée
+	Emotion exprimée, est ce qu’il y a un changement avec les messages d’un utilisateur ED par rapport aux autres communautés, changement stricte comme 2 personnalités ou y a t il un effet d’appartenir à l’ED au fil du temps ?
+	
+3ème axe
+
+	influence extérieure, téléchargement, de données extérieures
+		il faut lister les sources extérieures, voir pour chacune d’entre elles comment il est possible de les DL
